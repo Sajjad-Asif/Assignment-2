@@ -87,6 +87,8 @@ color: grey;}
         margin-right: 12px;
 }
 .sec-0{
+    width: 1400px;
+     height: 570px;
     display: flex;
 }
 .sec-0 figure{
@@ -99,7 +101,7 @@ color: grey;}
         margin: 130px 256px;
        
      }
-     .sec-1 h1{font-size: 50px;}
+     .sec-1 h1{  font-size: 50px;}
      .cards-0{margin-top: 60px; display: flex; gap: 16px; }
      .cards-1{margin-top: 16px; display: flex; gap: 16px;}
      .cards{
@@ -169,5 +171,4 @@ color: grey;}
     margin-left: 2px;
     font-size: 26px;}
 
-
-
+   
